@@ -34,7 +34,7 @@ Transforming real-world problems into tech-driven solutions fuels my passion. Cu
 
 ## 📚 Education & Experience
 🎓 **MCA** - SJB Institute of Technology (VTU)  
-💼 **Internship** - Full Stack Development  
+💼 **Internship** - Python Full Stack Development  
 
 ---
 
